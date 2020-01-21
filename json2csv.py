@@ -15,4 +15,4 @@ df2=pd.DataFrame([df1[0],df1[1]['lat'],df1[1]['lng'],df1[2],df1[3],df1[4]['type'
 
 
 #saving to csv
-df2.to_csv('C://Users//ashish//Desktop//UK PROPERTY//EN1 1AA//Address_detail//JSON//AGL119189.csv',index=False)
+df2.to_csv('sample.csv',index=False)
